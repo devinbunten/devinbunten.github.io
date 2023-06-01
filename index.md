@@ -6,7 +6,7 @@ layout: home
 title: ""
 list_title: 'Recent Updates'
 ---
-<img src="profile.png"
+<img src="assets/profile.png"
      alt="devin michelle bunten"
      style="float: left; margin-right: 10px;" />
 
