@@ -27,16 +27,16 @@ github_username:  devinbunten
 #paginate: 10
 #paginate_path: "/blog/page:num/"
 #show_excerpts: true
-author:
-  name: devin michelle bunten
-  email: last name @ mit
+#author:
+#  name: devin michelle bunten
+#  email: last_name@mit
 
 # Build settings
 theme: minima
-minima:
-  social_links:
-    twitter: devin_mb
-    github: devinbunten
+#minima:
+#  social_links:
+#    twitter: devin_mb
+#    github: devinbunten
 #    mastodon:
 #      - username: jofrhwld
 #        instance: lingo.lol
