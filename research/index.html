@@ -19,17 +19,17 @@ list_category:
     {%- for post in posts -%} 
         {%- if page.list_category contains post.category -%}
         <li>
-            <span class="post-meta">{{ post.date | date: date_format }} •  
-                        {% for author in post.author %}
-                            <span itemprop="author" itemscope itemtype="http://schema.org/Person">
-                            <span class="p-author h-card" itemprop="name">{{ author }}</span></span>
-            {%- if forloop.last == false %}, {% endif -%} {% endfor %}
-            </span>
             <h3>
                 <a class="post-link" href="{{ post.url | relative_url }}">
                         {{ post.title | escape }}
                         </a>
             </h3>
+            <span class="post-meta">{{ post.date | date: date_format }} •  
+                {% for author in post.author %}
+                    <span itemprop="author" itemscope itemtype="http://schema.org/Person">
+                    <span class="p-author h-card" itemprop="name">{{ author }}</span></span>
+                {%- if forloop.last == false %}, {% endif -%} {% endfor %}
+            </span>
             <p>
                 {{post.abstract | escape}}
             </p>
