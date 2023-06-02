@@ -10,11 +10,11 @@ layout: publication
 number: '1'
 p_url: https://journals.sagepub.com/doi/10.1177/00420980231173846
 published: Urban Studies
-tags:
-- gentrification
-- measurement
-- neighbourhood change
-- urban economic theory
+#tags:
+#- gentrification
+#- measurement
+#- neighbourhood change
+#- urban economic theory
 title: Re-Measuring Gentrification
 #volume: ''
 year: '2023'
