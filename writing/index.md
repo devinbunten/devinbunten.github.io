@@ -11,7 +11,7 @@ title: "Writing"
 - [Sex Does Not Mean Gender. Equating Them Erases Trans Lives.](https://www.nytimes.com/2020/06/23/opinion/trans-gender-language-trump.html) (New York Times)
 - [Boston must bring back rent control to protect tenants](https://www.bostonglobe.com/2020/01/17/opinion/boston-must-bring-back-rent-control-secure/) (Boston Globe)
 - [Untangling the Housing Shortage](https://www.bloomberg.com/news/articles/2019-10-23/untangling-the-housing-shortage-and-gentrification)(CityLab)
-- [A Sense of Where You Are] (https://writing.devinbunten.com/a-sense-of-where-you-are/) (Frank News)
+- [A Sense of Where You Are](https://writing.devinbunten.com/a-sense-of-where-you-are/) (Frank News)
 
 ## Other People's Words, But I'm Involved Somehow
 - [Mayor Wu directs $60 million to affordable housing in Boston](https://dailyfreepress.com/2022/12/01/mayor-wu-directs-60-million-to-affordable-housing-in-boston/) (by Xiaoya Shao)
