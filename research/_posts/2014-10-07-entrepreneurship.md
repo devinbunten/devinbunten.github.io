@@ -8,11 +8,12 @@ author:
 category: paper
 doi: 10.1111/jors.12157
 layout: publication
-number: '1'
+number: '4'
 p_url: https://onlinelibrary.wiley.com/doi/abs/10.1111/jors.12157
 published: Journal of Regional Science
 #tags:
 title: "Entrepreneurship, Information, and Growth"
 volume: '55'
 year: '2014'
+pages: '560-584'
 ---
