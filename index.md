@@ -3,7 +3,7 @@
 # To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
 
 layout: home
-title: "devin michelle bunten"
+title: ""
 list_title: 'Recent Updates'
 ---
 
