@@ -53,7 +53,7 @@ relative_links:
 header_pages:
  - research/index.html
  - writing/index.md
- - CV: "https://devinbunten.github.io/cv.pdf"
+ - "[CV](https://devinbunten.github.io/cv.pdf)"
 # - teaching/index.md
 
 
