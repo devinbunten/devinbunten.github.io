@@ -50,10 +50,10 @@ relative_links:
   collections: true
 
 
-header_pages:
- - research/index.html
- - writing/index.md
- - [CV](https://devinbunten.github.io/cv.pdf)
+#header_pages:
+# - research/index.html
+# - writing/index.md
+# - [CV](https://devinbunten.github.io/cv.pdf)
 # - teaching/index.md
 
 
