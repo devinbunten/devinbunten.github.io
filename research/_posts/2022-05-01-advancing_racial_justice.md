@@ -13,7 +13,7 @@ author:
 - Sarah Rege
 - Anne Whiston Spirn
 - Delia Wendel
-category: conference paper
+category: paper
 #doi: 
 layout: publication
 number: '1'
