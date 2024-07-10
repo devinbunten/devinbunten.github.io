@@ -24,7 +24,7 @@ baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 #twitter_username: devin_mb
 #github_username:  devinbunten
-paginate: 10
+paginate: 20
 paginate_path: "/blog/page:num/"
 show_excerpts: true
 author:
@@ -55,7 +55,7 @@ header_pages:
 # - teaching/courses/2017_lsa/index.html
  - research/index.html
  - writing/index.md
- - cv/cv.pdf
+ - https://devinbunten.github.io/cv.pdf
 # - teaching/index.md
 
 
