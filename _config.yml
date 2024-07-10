@@ -53,7 +53,7 @@ relative_links:
 header_pages:
  - research/index.html
  - writing/index.md
- - https://devinbunten.github.io/cv.pdf
+ - cv.pdf
 # - teaching/index.md
 
 
