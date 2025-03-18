@@ -9,7 +9,7 @@ category: paper
 doi: 10.1111/jors.12157
 layout: publication
 number: '4'
-p_url: https://onlinelibrary.wiley.com/doi/abs/10.1111/jors.12157
+p_url: https://www.devinbunten.com/papers/growth.pdf
 published: Journal of Regional Science
 #tags:
 title: "Entrepreneurship, Information, and Growth"

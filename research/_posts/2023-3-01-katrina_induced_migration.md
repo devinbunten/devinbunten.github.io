@@ -8,7 +8,7 @@ category: paper
 doi: 10.1016/j.jue.2022.103515
 layout: publication
 number: '1'
-p_url: https://www.sciencedirect.com/science/article/abs/pii/S0094119022000912
+p_url: https://www.devinbunten.com/papers/migration.pdf
 published: Journal of Urban Economics
 #tags:
 title: "The Effect of Racial Composition on Neighborhood Housing Prices: Evidence from Hurricane Katrina-Induced Migration"

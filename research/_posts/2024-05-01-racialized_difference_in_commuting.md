@@ -9,7 +9,7 @@ category: paper
 doi: 10.1016/j.jue.2023.103542
 layout: publication
 number: '103542'
-p_url: https://www.sciencedirect.com/science/article/abs/pii/S0094119023000116
+p_url: https://www.devinbunten.com/papers/racialized-commutes.pdf
 published: Journal of Urban Economics
 #tags:
 title: "The Problem Has Existed over Endless Years: Racialized Difference in Commuting, 1980–2019"

@@ -8,7 +8,7 @@ category: paper
 doi: 10.1093/oxfordhb/9780190882624.013.25
 layout: publication
 number: '1'
-p_url: https://academic.oup.com/edited-volume/41766/chapter-abstract/354309790
+p_url: https://www.devinbunten.com/papers/urbanization.pdf
 published: The Oxford Handbook of American Economic History
 #tags:
 title: "Urbanization in American Economic History, 1800–2000"

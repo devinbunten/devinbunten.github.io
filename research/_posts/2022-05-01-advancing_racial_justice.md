@@ -17,7 +17,7 @@ category: paper
 #doi: 
 layout: publication
 number: '1'
-p_url: https://www.researchgate.net/profile/Eric-Huntley/publication/361611858_Advancing_Racial_Justice_Research_In_Architecture_Urban_Planning_and_Allied_Fields/links/62bc50c0056dae24e8ed0395/Advancing-Racial-Justice-Research-In-Architecture-Urban-Planning-and-Allied-Fields.pdf
+p_url: https://www.devinbunten.com/papers/arjr.pdf
 published: "Association of Collegiate Schools of Architecture: Conference Proceedings"
 #tags:
 title: "Advancing Racial Justice Research In Architecture, Urban Planning, and Allied Fields"

@@ -9,7 +9,7 @@ category: paper
 doi: 10.1016/j.habitatint.2020.102289
 layout: publication
 number: '1'
-p_url: https://hdl.handle.net/1721.1/131065
+p_url: https://www.devinbunten.com/papers/porp.pdf
 published: Habitat International
 #tags:
 title: "People or Parking?"

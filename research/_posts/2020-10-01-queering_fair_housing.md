@@ -8,7 +8,7 @@ category: paper
 doi: 10.9783/9780812297447-008
 layout: publication
 number: '1'
-p_url: https://www.degruyter.com/document/doi/10.9783/9780812297447-008/
+p_url: https://www.devinbunten.com/papers/queering-fair-housing.pdf
 published: Perspectives on Fair Housing
 #tags:
 title: "A Queer and Intersectional Approach to Fair Housing"

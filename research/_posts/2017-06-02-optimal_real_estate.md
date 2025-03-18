@@ -7,7 +7,7 @@ category: paper
 doi: 10.1016/j.jhe.2017.01.004
 layout: publication
 number: '1'
-p_url: https://www.sciencedirect.com/science/article/abs/pii/S1051137716301449
+p_url: https://www.devinbunten.com/papers/capital-durability.pdf
 published: Journal of Housing Economics
 #tags:
 title: "Optimal real estate capital durability and localized climate change disaster risk"

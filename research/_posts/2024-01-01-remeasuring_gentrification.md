@@ -8,7 +8,7 @@ category: paper
 doi: 10.1177/00420980231173846
 layout: publication
 number: '1'
-p_url: https://journals.sagepub.com/doi/10.1177/00420980231173846
+p_url: https://www.devinbunten.com/papers/picturing-gentrification.pdf
 published: Urban Studies
 #tags:
 #- gentrification
