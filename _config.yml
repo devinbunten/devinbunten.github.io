@@ -26,7 +26,7 @@ url: "" # the base hostname & protocol for your site, e.g. http://example.com
 #github_username:  devinbunten
 paginate: 20
 paginate_path: "/blog/page:num/"
-show_excerpts: true
+show_excerpts: false
 author:
   name: "devin michelle bunten"
   email: bunten@mit.edu
