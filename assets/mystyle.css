@@ -1,5 +1,5 @@
 body {
-	font: 100% "Minion Pro", "Garamond", "Georgia", "Times New Roman", serif; 
+	font: 100% "HelveticaNeue-Light", "Helvetica Neue Light", "Helvetica Neue", "Helvetica", "Arial Narrow", "Arial", "Lucida Grande", sans-serif; 
 	background: #ebeb2b2;
 	margin: 0;
 	padding: 0;
@@ -183,7 +183,7 @@ rcode{
 	border-color: black;
 	border-style: solid;
   	font-size : 90%;
-	font-family: "Minion Pro", "Garamond", "Georgia", "Times New Roman", serif; ;
+  	font-family :  "HelveticaNeue-Light", "Helvetica Neue Light", "Helvetica Neue", "Helvetica", "Arial Narrow", "Arial", "Lucida Grande", sans-serif; ;
   	text-align: left;
   	word-wrap: break-word;
   -moz-border-radius: 10px;
@@ -202,13 +202,13 @@ h2#contact:before{
 
 table.pub th, table.pub td {
   font-size : 80%;
-  font-family: "Minion Pro", "Garamond", "Georgia", "Times New Roman", serif; ;
+  font-family :  "HelveticaNeue-Light", "Helvetica Neue Light", "Helvetica Neue", "Helvetica", "Arial Narrow", "Arial", "Lucida Grande", sans-serif; ;
   text-align: left;
 }
 
 table.diss th, table.diss td {
   font-size : 80%;
-  font-family: "Minion Pro", "Garamond", "Georgia", "Times New Roman", serif; ;
+  font-family :  "HelveticaNeue-Light", "Helvetica Neue Light", "Helvetica Neue", "Helvetica", "Arial Narrow", "Arial", "Lucida Grande", sans-serif; ;
   text-align: left;
 }
 
