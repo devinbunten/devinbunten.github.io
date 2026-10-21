@@ -6,5 +6,5 @@ layout: publication
 published: MIT Press
 #tags:
 title: "The Gentrification Machine"
-year: '2026'
+year: '2027'
 ---
