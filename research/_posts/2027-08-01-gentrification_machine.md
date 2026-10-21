@@ -1,7 +1,7 @@
 ---
 author:
 - devin michelle bunten
-category: book
+category: paper
 layout: publication
 published: MIT Press
 #tags:
